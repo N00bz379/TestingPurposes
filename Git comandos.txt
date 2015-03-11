@@ -1,0 +1,7 @@
+Hay que estar en la ruta del proyecto
+
+git add "archivo"
+git status -> ver lo que has cambiado
+git commit -m "mensaje que sale en el commit"
+git push -u origin master
+git clone "url proyecto"
