@@ -5,3 +5,4 @@ git status -> ver lo que has cambiado
 git commit -m "mensaje que sale en el commit"
 git push -u origin master
 git clone "url proyecto"
+MEHE
